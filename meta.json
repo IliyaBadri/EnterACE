@@ -1,6 +1,10 @@
 {
     "doc_list": [
         {
+            "Name": "Intro",
+            "Location": "/README.md"
+        },
+        {
             "Name": "Kali linux vm setup",
             "Location": "/Penetration/kali-vm-install/README.md"
         }
