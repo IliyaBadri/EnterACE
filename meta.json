@@ -2,7 +2,6 @@
     "doc_list": [
         {
             "Name": "Kali linux vm setup",
-            "Category": "Penetration",
             "Location": "/Penetration/kali-vm-install/README.md"
         }
     ]
