@@ -16,7 +16,7 @@ Before you begin, ensure that you have the following:
 2. Click on the "New" button to create a new virtual machine.
 3. Enter a name for your virtual machine (e.g., "Kali Linux").
 4. Select "Linux" as the type.
-5. Choose "Debian (64-bit)" as the version.
+5. Choose "Ubuntu (64-bit)" as the version.
 6. Allocate an appropriate amount of memory for your virtual machine (at least 2 GB is recommended).
 7. Select "Create a virtual hard disk now" and click "Create".
 
