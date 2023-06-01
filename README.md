@@ -91,7 +91,7 @@ By participating in this community, you agree to follow this Code of Conduct in 
 
   
 
-The EnterACE Repository is licensed under the [MIT License](LICENSE). By contributing to this repository, you agree to license your contributions under the same license.
+The EnterACE Repository is licensed under the [MIT License](https://github.com/IliyaBadri/EnterACE/blob/main/LICENSE). By contributing to this repository, you agree to license your contributions under the same license.
 
   
 
