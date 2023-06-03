@@ -44,9 +44,7 @@ Google Cloud Shell offers customization and configuration options to enhance you
 
 5. **SSH Keys**: If you plan to use SSH-based access to Cloud Shell, you can configure your SSH keys in the Cloud Shell settings.
 
-For more detailed information on customization and configuration options, refer to the official [Google Cloud Shell documentation](https://cloud.google
-
-.com/shell/docs/).
+For more detailed information on customization and configuration options, refer to the official [Google Cloud Shell documentation](https://cloud.google.com/shell/docs/).
 
 ## Conclusion
 Google Cloud Shell provides a convenient and powerful way to manage your GCP resources and interact with GCP services directly from your browser. With its pre-installed tools, persistent storage, and integration with the Google Cloud SDK, Cloud Shell streamlines your development and management workflows. By leveraging Cloud Shell, you can focus more on building applications and managing your infrastructure without the need for local installations or setups.
