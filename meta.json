@@ -7,6 +7,14 @@
         {
             "Name": "Kali linux vm setup",
             "Location": "/Penetration/kali-vm-install/README.md"
+        },
+        {
+            "Name": "Google cloud shell documentation",
+            "Location": "/Linux/google-could-shell/README.md"
+        },
+        {
+            "Name": "Basic linux commands",
+            "Location": "/Linux/basic-linux-commands/README.md"
         }
     ]
 }
